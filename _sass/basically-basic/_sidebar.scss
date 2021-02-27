@@ -13,6 +13,7 @@
   visibility: hidden;
   -webkit-transition: visibility 0s 0.3s;
   transition: visibility 0s 0.3s;
+  border-right: $accent-color 1 solid;
 
   @include breakpoint($large) {
     max-width: (1.5 * $sidebar-width);
@@ -42,7 +43,7 @@
     /* line hover effect */
     a {
       position: relative;
-      color: $base-color;
+      color: $text-color;
 
       &::before {
         display: block;
@@ -119,7 +120,7 @@
 
     a {
       display: block;
-      color: $base-color;
+      color: $text-color;
       text-decoration: none;
     }
   }

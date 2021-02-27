@@ -57,7 +57,7 @@ plugins:
 
 # jekyll-theme-basically-basic settings
 lang: en-GB
-#title: Sean Bintley
+title: Sean Bintley
 email: music@seanbintley.co.uk
 description: "Instrumental noodlings of a greying man"
 baseurl: ""  # the subpath of your site, e.g. /blog
@@ -68,7 +68,6 @@ author:
 # github_username: Towlette_Pettetucci
 # logo: /assets/icons/basically-basic-logo-light.svg
 search: false
-
 
 
   

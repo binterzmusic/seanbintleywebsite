@@ -7,11 +7,18 @@ paginate: true  # enables pagination loop, see section above for additional setu
 entries_layout: # list (default), grid
 ---
 
-# Sean Bintley
+<!-- # Sean Bintley -->
 
-"Instrumental noodlings of a greying man"
+"Instrumental noodler"
 
+## Latest Single
+### Operose
 
-## Operose
+<div style="max-width:100%;">
+    <div style="position:relative;padding-bottom:calc(56.25% + 52px);height: 0;">
+        <iframe style="position:absolute;top:0;left:0;" width="100%" height="100%" src="https://embed.song.link/?url=https%3A%2F%2Fsong.link%2Fi%2F1523662884&theme=dark" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox">
+        </iframe>
+    </div>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQMtpnaDU0Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
