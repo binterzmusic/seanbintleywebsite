@@ -1,0 +1,9 @@
+skin: night
+
+google_fonts:
+  - name: "Josefin Sans"
+    weights: "400,400i,600,600i"
+
+
+
+  # font-family: 'Josefin Sans', sans-serif;

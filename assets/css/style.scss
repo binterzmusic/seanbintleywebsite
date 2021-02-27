@@ -1,0 +1,14 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Theme skin
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'night' }}";
+
+@import "basically-basic";
+
+$base-font-family: "Josefin Sans", sans-serif !default;
+$text-color: #ce0f0f !default;
+$base-color: #0062ff !default;
