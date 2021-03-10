@@ -22,3 +22,9 @@ entries_layout: # list (default), grid
 </div>
 
 ---
+
+<style>
+h1.site-title {
+    display: none;
+}
+</style>
